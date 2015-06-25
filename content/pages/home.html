@@ -1,0 +1,16 @@
+---
+$title@: Home
+$path: /
+
+$localization:
+  path: /intl/{locale}/
+
+# Suffixing a "@" on a yaml key tags the value for translation.
+
+hero:
+  title@: Hello World
+  subtitle@: Subtitle text.
+  subtitle@#: This is an optional translator comment for the subtitle text.
+---
+<h1>{{_(doc.hero.title)}}</h1>
+<p>{{_(doc.hero.subtitle)}}</p>

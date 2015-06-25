@@ -1,0 +1,16 @@
+msgid "About Us"
+msgstr ""
+
+msgid "Contact Us"
+msgstr ""
+
+msgid "Hello World"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+#. This is an optional translator comment for the subtitle text.
+msgid "Subtitle text."
+msgstr ""
+
